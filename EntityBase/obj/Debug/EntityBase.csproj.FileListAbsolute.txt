@@ -1,0 +1,13 @@
+C:\Users\JiangYanJun\Desktop\EntityDemo\EntityBase\bin\Debug\EntityBase.dll.config
+C:\Users\JiangYanJun\Desktop\EntityDemo\EntityBase\bin\Debug\EntityBase.dll
+C:\Users\JiangYanJun\Desktop\EntityDemo\EntityBase\bin\Debug\EntityBase.pdb
+C:\Users\JiangYanJun\Desktop\EntityDemo\EntityBase\bin\Debug\EntityFramework.dll
+C:\Users\JiangYanJun\Desktop\EntityDemo\EntityBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JiangYanJun\Desktop\EntityDemo\EntityBase\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\JiangYanJun\Desktop\EntityDemo\EntityBase\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\JiangYanJun\Desktop\EntityDemo\EntityBase\bin\Debug\EntityFramework.xml
+C:\Users\JiangYanJun\Desktop\EntityDemo\EntityBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JiangYanJun\Desktop\EntityDemo\EntityBase\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\JiangYanJun\Desktop\EntityDemo\EntityBase\obj\Debug\EntityBase.csprojResolveAssemblyReference.cache
+C:\Users\JiangYanJun\Desktop\EntityDemo\EntityBase\obj\Debug\EntityBase.dll
+C:\Users\JiangYanJun\Desktop\EntityDemo\EntityBase\obj\Debug\EntityBase.pdb
